@@ -1,5 +1,5 @@
 new=input()
-if(new.isalpha())
+if(new.isalpha()):
   if(new=='a'):
     print("Vowel")
   elif(new=='e'):
