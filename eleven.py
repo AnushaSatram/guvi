@@ -1,3 +1,3 @@
-sonu=int(input())
-titu=int(input())
-print(sonu**titu)
+bittu=int(input())
+chintu=int(input())
+print(bittu**chintu)
