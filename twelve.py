@@ -1,8 +1,8 @@
 m=int(input())
 tp=m
 rs=0
-while(n>0):
-  d=n%10
+while(m>0):
+  d=m%10
   rs=rs*10+d
   m=m//10
 if(tp==rs):
