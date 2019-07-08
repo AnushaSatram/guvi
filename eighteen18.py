@@ -1,5 +1,5 @@
 m,n=map(int,input().split())
-for x in range(m,n+1):
+for x in range(m+1,n):
   ol = len(str(x))
   add=0
   tp=x
