@@ -1,11 +1,11 @@
-w=int(input())
+wp=int(input())
 add=0
-tp=w
+tp=wp
 while(tp>0):
   dig = tp%10
   add += dig**3
   tp //= 10
-if(w==add):
+if(wp==add):
   print("yes")
 else:
   print("no")
