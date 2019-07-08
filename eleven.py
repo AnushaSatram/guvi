@@ -1,3 +1,3 @@
-bittu=int(input())
-chintu=int(input())
-print(bittu**chintu)
+bh=int(input())
+ch=int(input())
+print(bh**ch)
