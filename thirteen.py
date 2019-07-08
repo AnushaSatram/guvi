@@ -1,7 +1,7 @@
 digits=int(input())
 if(digits>1):
-  for i in range(2,digits):
-    if(digits%2==0):
+  for p in range(2,digits):
+    if(digits%p==0):
       print("no")
       break
     else:
