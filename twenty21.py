@@ -1,2 +1,2 @@
 j,k,l=map(int,input().split())
-print(int(a/2)*((2*b)+(a-1)*c)))
+print(int(j/2)*((2*k)+(j-1)*l)))
