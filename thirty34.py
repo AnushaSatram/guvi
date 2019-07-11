@@ -1,6 +1,6 @@
 vp=str(input())
-ad=1
-for s in range(0,len(vp)):
-  if(vp[s]=='.'):
-    ad=ad+1
-print(ad)
+cn=1
+for k in range(0,len(vp)):
+  if(vp[k]=='.'):
+    cn=cn+1
+print(cn)
