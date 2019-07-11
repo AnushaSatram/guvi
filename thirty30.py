@@ -5,7 +5,7 @@ if(lk>sm):
 else:
   p=sm-lk
 if(jk>dm):
-  r=jk-dm
+  q=jk-dm
 else:
-  r=dm-jk
-print(p,r)
+  q=dm-jk
+print(p,q)
