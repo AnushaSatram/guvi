@@ -1,0 +1,11 @@
+sm,dm=map(int,input().split()))
+lk,jk=map(int,input().split()))
+if(lk>sm):
+  p=lk-sm
+else:
+  p=sm-lk
+if(jk>dm):
+  r=jk-dm
+else:
+  r=dm-jk
+print(p,r)
