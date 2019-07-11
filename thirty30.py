@@ -1,5 +1,5 @@
-sm,dm=map(int,input().split()))
-lk,jk=map(int,input().split()))
+sm,dm=map(int,input().split())
+lk,jk=map(int,input().split())
 if(lk>sm):
   p=lk-sm
 else:
