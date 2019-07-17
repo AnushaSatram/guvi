@@ -1,7 +1,7 @@
 gh=int(input())
 k=str(gh)
 p=0
-for j in k:
-  p=p+(int(k)**2)
+for q in k:
+  p=p+(int(q)**2)
   
 print(p)
