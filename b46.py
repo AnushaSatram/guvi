@@ -1,2 +1,2 @@
-y=int(input())
-print(y+1)
+cm=int(input())
+print(cm+1)
